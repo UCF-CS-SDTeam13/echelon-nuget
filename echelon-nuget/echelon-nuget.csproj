@@ -143,6 +143,9 @@
     <Content Include="Packages\AWSSDK.SecurityToken\3.3.102.28\AWSSDK.SecurityToken.3.3.102.28.nupkg" />
     <Content Include="Packages\AWSSDK.SecurityToken\3.3.102.28\AWSSDK.SecurityToken.3.3.102.28.nupkg.sha512" />
     <Content Include="Packages\AWSSDK.SecurityToken\3.3.102.28\AWSSDK.SecurityToken.nuspec" />
+    <Content Include="Packages\Microsoft.CodeAnalysis\3.3.1\Microsoft.CodeAnalysis.3.3.1.nupkg" />
+    <Content Include="Packages\Microsoft.CodeAnalysis\3.3.1\Microsoft.CodeAnalysis.3.3.1.nupkg.sha512" />
+    <Content Include="Packages\Microsoft.CodeAnalysis\3.3.1\Microsoft.CodeAnalysis.nuspec" />
     <None Include="Properties\PublishProfiles\echelon-nuget20190926034741 - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
